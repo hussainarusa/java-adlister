@@ -11,6 +11,6 @@
     <div class="container">
         <h1>Viewing your profile.</h1>
     </div>
-
+<h1>Welcome to your profile page!</h1>
 </body>
 </html>
